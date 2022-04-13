@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UVa-10986.cs/1.0.0": {
+        "runtime": {
+          "UVa-10986.cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UVa-10986.cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

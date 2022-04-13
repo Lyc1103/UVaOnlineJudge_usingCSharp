@@ -1,0 +1,15 @@
+D:\0-2-12-C#-Learning\UVa-10986\obj\Debug\net6.0\UVa-10986.cs.csproj.AssemblyReference.cache
+D:\0-2-12-C#-Learning\UVa-10986\obj\Debug\net6.0\UVa-10986.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\0-2-12-C#-Learning\UVa-10986\obj\Debug\net6.0\UVa-10986.cs.AssemblyInfoInputs.cache
+D:\0-2-12-C#-Learning\UVa-10986\obj\Debug\net6.0\UVa-10986.cs.AssemblyInfo.cs
+D:\0-2-12-C#-Learning\UVa-10986\obj\Debug\net6.0\UVa-10986.cs.csproj.CoreCompileInputs.cache
+D:\0-2-12-C#-Learning\UVa-10986\bin\Debug\net6.0\UVa-10986.cs.exe
+D:\0-2-12-C#-Learning\UVa-10986\bin\Debug\net6.0\UVa-10986.cs.deps.json
+D:\0-2-12-C#-Learning\UVa-10986\bin\Debug\net6.0\UVa-10986.cs.runtimeconfig.json
+D:\0-2-12-C#-Learning\UVa-10986\bin\Debug\net6.0\UVa-10986.cs.dll
+D:\0-2-12-C#-Learning\UVa-10986\bin\Debug\net6.0\UVa-10986.cs.pdb
+D:\0-2-12-C#-Learning\UVa-10986\obj\Debug\net6.0\UVa-10986.cs.dll
+D:\0-2-12-C#-Learning\UVa-10986\obj\Debug\net6.0\refint\UVa-10986.cs.dll
+D:\0-2-12-C#-Learning\UVa-10986\obj\Debug\net6.0\UVa-10986.cs.pdb
+D:\0-2-12-C#-Learning\UVa-10986\obj\Debug\net6.0\UVa-10986.cs.genruntimeconfig.cache
+D:\0-2-12-C#-Learning\UVa-10986\obj\Debug\net6.0\ref\UVa-10986.cs.dll
