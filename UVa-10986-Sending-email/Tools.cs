@@ -142,7 +142,6 @@ namespace Tools
 			(this.last_index)++;
 			this.positions[node.index] = this.last_index;
 			this.nodes.Insert(this.last_index, node);
-			// this.nodes.Add(new Node(INFINITY, node.index));
 			return;
 		}
 

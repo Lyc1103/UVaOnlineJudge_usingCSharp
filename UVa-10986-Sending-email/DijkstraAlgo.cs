@@ -7,21 +7,11 @@ namespace Algorithm
 		private static MinHeap initialSingleSource(Graph graph, int start_index)
 		{
 			graph.nodes[start_index].costFromStartNode = 0;
-			// Console.WriteLine("here");
-			// for (int i = 0; i < graph.nodesSize; i++)
-			// {
-			// 	Console.Write(i + ": ");
-			// 	if (graph.nodes[i] != null) Console.WriteLine(graph.nodes[i].index);
-			// 	else Console.WriteLine("null");
-			// }
-			// Console.WriteLine("here");
 			MinHeap minheap = new MinHeap(graph.nodesSize);
 			for (int i = 0; i < graph.nodesSize; i++)
 				if (graph.nodes[i] != null)
-				{
-					// Console.WriteLine(i);
 					minheap.pushToMinHeap(graph.nodes[i]);
-				}
+
 			// minheap.printElementsInMinHeap();
 			minheap.bottomUpBuildMinHeap();
 			// minheap.printElementsInMinHeap();

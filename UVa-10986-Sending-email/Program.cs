@@ -31,8 +31,8 @@ class Program
 				return;
 			}
 
+			// build edges from input
 			AllEdges graph_edges = new AllEdges(m + 1);
-
 			for (int j = 0; j < m; j++)
 			{
 				string? edge_string = file.ReadLine();
@@ -42,11 +42,14 @@ class Program
 					graph_edges.edges.Add(edge);
 				}
 			}
+
+			// use edges above to create graph
 			Graph graph = new Graph(n, graph_edges, m);
 			if (graph.nodes[S] == null || graph.nodes[T] == null)
 				Console.WriteLine("Case #" + i + ": unreachable");
 			else
 			{
+				// problem solving
 				int send_cost = sendingEmail(graph, S, T);
 				if (send_cost >= INFINITY) Console.WriteLine("Case #" + i + ": unreachable");
 				else Console.WriteLine("Case #" + i + ": " + send_cost);
